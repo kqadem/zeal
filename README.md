@@ -1,7 +1,8 @@
-# README
-## This is the README for your extension "zeal"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Zeal - An eyes relieving theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+The goal of this extension / theme was to provide a dark theme with blunted colours.
+I suffer from Red–green color blindness, hence my eyes are more sensitive to jazzy & piercing colours, which are widely used in the community for dark themes.
+
+Since I mainly do web development in VS Code I cannot really ensure how the colours for specific languages will look like.
+For myself I can tell that <code>JavaScript, TypeScript, CSS, HTML, Markdown, JSON</code> are fine.
+
