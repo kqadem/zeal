@@ -4,7 +4,7 @@
     "description": "I suffer from Red–green color blindness, hence my eyes are more sensitive to jazzy & piercing colours, which are widely used in the community for dark themes. The goal of this extension / theme was to provide a dark theme with blunted colours.",
 	"version": "1.1.0",
 	"icon": "resources/logo.jpg",
-    "publisher": "kq.adem",
+    "publisher": "kqadem",
     "engines": {
         "vscode": "^1.22.0"
 	},
