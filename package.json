@@ -1,0 +1,39 @@
+{
+    "name": "zeal-theme",
+    "displayName": "Zeal - An eyes relieving theme",
+    "description": "I suffer from Red–green color blindness, hence my eyes are more sensitive to jazzy & piercing colours, which are widely used in the community for dark themes. The goal of this extension / theme was to provide a dark theme with blunted colours.",
+	"version": "1.1.0",
+	"icon": "resources/logo.jpg",
+    "publisher": "kq.adem",
+    "engines": {
+        "vscode": "^1.22.0"
+	},
+	"activationEvents": [],
+    "main": "./index.js",
+    "categories": [
+		"Themes"
+	],
+	"repository": {
+		"url": "https://github.com/kqadem/zeal.git"
+	},
+	"keywords": [
+		"Dark theme",
+		"Red-green color blindness",
+		"blunt colours",
+		"eye relieving",
+		"web development"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zeal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zeal-color-theme.json"
+            }
+        ],
+        "markdown.markdownItPlugins": true
+    },
+    "devDependencies": {
+        "markdown-it-task-lists": "^2.1.1"
+    }
+}
