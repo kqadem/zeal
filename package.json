@@ -13,6 +13,9 @@
     "categories": [
 		"Themes"
 	],
+	"repository": {
+		"url": "https://github.com/kqadem/zeal.git"
+	},
 	"keywords": [
 		"Dark theme",
 		"Red-green color blindness",
