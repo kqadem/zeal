@@ -8,6 +8,10 @@
     "engines": {
         "vscode": "^1.22.0"
 	},
+	"galleryBanner": {
+		"color": "#1f292e",
+		"theme": "dark"
+	},
 	"activationEvents": [],
     "main": "./index.js",
     "categories": [
